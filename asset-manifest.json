@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/remote-w4-deploy/static/css/main.007b2407.css",
+    "main.js": "/remote-w4-deploy/static/js/main.4206b79d.js",
+    "static/js/592.8fc2f589.chunk.js": "/remote-w4-deploy/static/js/592.8fc2f589.chunk.js",
+    "index.html": "/remote-w4-deploy/index.html",
+    "main.007b2407.css.map": "/remote-w4-deploy/static/css/main.007b2407.css.map",
+    "main.4206b79d.js.map": "/remote-w4-deploy/static/js/main.4206b79d.js.map",
+    "592.8fc2f589.chunk.js.map": "/remote-w4-deploy/static/js/592.8fc2f589.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007b2407.css",
+    "static/js/main.4206b79d.js"
+  ]
+}
